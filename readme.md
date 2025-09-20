@@ -197,6 +197,7 @@ _Apps and browser extensions that support WebDAV in some form, e.g. for backup a
 - [Stylus](https://add0n.com/stylus.html) - Browser extension for custom CSS that can sync with WebDAV.
 - [Violentmonkey](https://violentmonkey.github.io/) - A web browser extension for UserJS management that can sync with WebDAV.
 - [Zotero](https://www.zotero.org/) - an easy-to-use desktop app to collect, organize, annotate, cite, and share research. `AGPLv3` `JavaScript`
+- [Table Habit](https://github.com/FriesI23/mhabit) – Micro habits tracking app with sync via WebDAV. `AL2` `Dart`
 
 ## Mobile apps
 
@@ -250,6 +251,7 @@ _Apps that support WebDAV in some form, e.g. for backup and sync_
 - [Orgzly](https://www.orgzly.com/) - Outliner for notes and to-do lists. [Source code](https://github.com/orgzly).
 - [SimpleTask](https://github.com/mpcjanssen/simpletask-android) - a simple task manager. `GPL3` `Kotlin`
 - [pokatomnik/Davno](https://github.com/pokatomnik/Davno) - webDAV NOtes. `WIP`
+- [Table Habit](https://github.com/FriesI23/mhabit) – Micro habits tracking app with sync via WebDAV. `AL2` `Dart`
 
 
 ### iOS
@@ -279,6 +281,7 @@ _Apps that support WebDAV in some form, e.g. for backup and sync_
 - [Strongbox](https://apps.apple.com/app/strongbox-password-safe/id897283731) - KeePass-based password manager that supports WebDAV sync.
 - [Notability](https://apps.apple.com/app/notability/id360593530) - Note-taking app that supports webDAV for backups.
 - [PotPlayer](https://potplayer.daum.net/) - Windows only.
+- [Table Habit](https://github.com/FriesI23/mhabit) – Micro habits tracking app with sync via WebDAV. `AL2` `Dart`
 
 
 ## Libraries
